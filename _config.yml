@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.7459721
+  brandStrength: 0.3521412
+  lightness: 0.6450054
+  rhythmicContrast: 0.9210526
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.5332975
+name: philip cornett
