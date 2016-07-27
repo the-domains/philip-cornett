@@ -1,8 +1,28 @@
+name: philip cornett
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.5332975
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7459721
-  lightness: 0.6858217
-  brandStrength: 0.3521412
-  rhythmicContrast: 0.9210526
-name: philip cornett
+  brandColors:
+    - '#ffffff'
+    - '#5f5345'
+    - '#ab9f85'
+    - '#72feff'
+    - '#2d0e06'
+  brandStrength: 0.375
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
